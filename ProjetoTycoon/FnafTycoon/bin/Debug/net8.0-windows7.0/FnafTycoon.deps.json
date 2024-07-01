@@ -1,0 +1,124 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FnafTycoon/1.0.0": {
+        "dependencies": {
+          "Krypton.Docking": "85.24.6.176",
+          "Krypton.Navigator": "85.24.6.176",
+          "Krypton.Ribbon": "85.24.6.176",
+          "Krypton.Toolkit": "85.24.6.176"
+        },
+        "runtime": {
+          "FnafTycoon.dll": {}
+        },
+        "resources": {
+          "pt-BR/FnafTycoon.resources.dll": {
+            "locale": "pt-BR"
+          }
+        }
+      },
+      "Krypton.Docking/85.24.6.176": {
+        "dependencies": {
+          "Krypton.Navigator": "85.24.6.176",
+          "Krypton.Toolkit": "85.24.6.176",
+          "Krypton.Workspace": "85.24.6.176"
+        },
+        "runtime": {
+          "lib/net8.0-windows7.0/Krypton.Docking.dll": {
+            "assemblyVersion": "85.24.6.176",
+            "fileVersion": "85.24.6.176"
+          }
+        }
+      },
+      "Krypton.Navigator/85.24.6.176": {
+        "dependencies": {
+          "Krypton.Toolkit": "85.24.6.176"
+        },
+        "runtime": {
+          "lib/net8.0-windows7.0/Krypton.Navigator.dll": {
+            "assemblyVersion": "85.24.6.176",
+            "fileVersion": "85.24.6.176"
+          }
+        }
+      },
+      "Krypton.Ribbon/85.24.6.176": {
+        "dependencies": {
+          "Krypton.Toolkit": "85.24.6.176"
+        },
+        "runtime": {
+          "lib/net8.0-windows7.0/Krypton.Ribbon.dll": {
+            "assemblyVersion": "85.24.6.176",
+            "fileVersion": "85.24.6.176"
+          }
+        }
+      },
+      "Krypton.Toolkit/85.24.6.176": {
+        "runtime": {
+          "lib/net8.0-windows7.0/Krypton.Toolkit.dll": {
+            "assemblyVersion": "85.24.6.176",
+            "fileVersion": "85.24.6.176"
+          }
+        }
+      },
+      "Krypton.Workspace/85.24.6.176": {
+        "dependencies": {
+          "Krypton.Navigator": "85.24.6.176",
+          "Krypton.Toolkit": "85.24.6.176"
+        },
+        "runtime": {
+          "lib/net8.0-windows7.0/Krypton.Workspace.dll": {
+            "assemblyVersion": "85.24.6.176",
+            "fileVersion": "85.24.6.176"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FnafTycoon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Krypton.Docking/85.24.6.176": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PAy457+WscDKMV/eoomfuOGKWQnv006PXBKIX7sDvSVnbB5cDDSQzSAWlHhPCYadVXWcSsVazECiinRwk4FLNA==",
+      "path": "krypton.docking/85.24.6.176",
+      "hashPath": "krypton.docking.85.24.6.176.nupkg.sha512"
+    },
+    "Krypton.Navigator/85.24.6.176": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q1553SIyEYOrqocataiC3/MLlSOZdZAd5x/KGtm+hL4h3GwlYCX8AtDuvEodkawybOtEP+/EqjoTD2dbgRAmfQ==",
+      "path": "krypton.navigator/85.24.6.176",
+      "hashPath": "krypton.navigator.85.24.6.176.nupkg.sha512"
+    },
+    "Krypton.Ribbon/85.24.6.176": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1hCPKg+q4RR5iXw5uW4ihvoeNtnFsSYa5h1doP0e6514rRLntrPdxu+QkHT1qAgm+cbqW2kwKXW1TnWCFNr+bQ==",
+      "path": "krypton.ribbon/85.24.6.176",
+      "hashPath": "krypton.ribbon.85.24.6.176.nupkg.sha512"
+    },
+    "Krypton.Toolkit/85.24.6.176": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qJ3AFuLsJwp8ROqDjR9UM6SC997vfC2XHPjcR4bsL1dji9KmlIk3fJSL9MmWOUUp8lX21ECwI2OUXVDS+jtLaQ==",
+      "path": "krypton.toolkit/85.24.6.176",
+      "hashPath": "krypton.toolkit.85.24.6.176.nupkg.sha512"
+    },
+    "Krypton.Workspace/85.24.6.176": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tiZwWcpPeEOQwhP848isQW/RMbgVZYhxq5BMQcvYoQj1jHmUsixp6dgooejNRDh9zOgVfySq7/7QymBYMAtjtw==",
+      "path": "krypton.workspace/85.24.6.176",
+      "hashPath": "krypton.workspace.85.24.6.176.nupkg.sha512"
+    }
+  }
+}
