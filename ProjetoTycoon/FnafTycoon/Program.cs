@@ -20,7 +20,7 @@ namespace FnafTycoon
             IPizzasRepository pizzasRepository = new PizzasRepository();
 
 
-            Application.Run(new Menu(pizzasRepository));
+            Application.Run(new MenuInicial(pizzasRepository));
         }
     }
 }

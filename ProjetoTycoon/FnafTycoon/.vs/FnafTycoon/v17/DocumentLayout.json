@@ -1,38 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|solutionrelative:loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|c:\\users\\administrador\\desktop\\fnafvdd\\fnaftycoon\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|c:\\users\\administrador\\desktop\\fnafvdd\\fnaftycoon\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|solutionrelative:loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\animatronicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|solutionrelative:animatronicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\pizzaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|solutionrelative:pizzaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\pizzaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\pizzaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|solutionrelative:pizzaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\animatronicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\pizzaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|solutionrelative:pizzaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\menuinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|solutionrelative:menuinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\menuinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|solutionrelative:menuinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|c:\\users\\administrador\\desktop\\projetos\\projetotycoon\\fnaftycoon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\animatronicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|solutionrelative:animatronicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\animatronicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|solutionrelative:animatronicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|solutionrelative:loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0EDDC22-ECD1-40B7-9442-40BB1102B3AC}|FnafTycoon.csproj|solutionrelative:loja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,15 +54,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Menu.cs [Design - portugu\u00EAs (Brasil)]",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\Menu.cs",
               "RelativeDocumentMoniker": "Menu.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\Menu.cs [Design - portugu\u00EAs (Brasil)]",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\Menu.cs [Design - portugu\u00EAs (Brasil)]",
               "RelativeToolTip": "Menu.cs [Design - portugu\u00EAs (Brasil)]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T16:10:52.136Z",
@@ -59,13 +71,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\Menu.cs",
               "RelativeDocumentMoniker": "Menu.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\Menu.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\Menu.cs",
               "RelativeToolTip": "Menu.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAewEwAAAA5AAAA",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAtwJgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T17:37:58.356Z",
               "IsPinned": true,
@@ -85,74 +97,108 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Loja.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\Loja.cs",
-              "RelativeDocumentMoniker": "Loja.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\Loja.cs",
-              "RelativeToolTip": "Loja.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAtwCcAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T19:24:47.693Z",
+              "WhenOpened": "2024-07-04T02:32:44.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Loja.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\Loja.cs",
-              "RelativeDocumentMoniker": "Loja.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\Loja.cs [Projeto]",
-              "RelativeToolTip": "Loja.cs [Projeto]",
+              "DocumentIndex": 4,
+              "Title": "MenuInicial.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\MenuInicial.cs",
+              "RelativeDocumentMoniker": "MenuInicial.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\MenuInicial.cs",
+              "RelativeToolTip": "MenuInicial.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAMwBgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T16:15:04.628Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2024-07-03T18:52:28.76Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "MenuInicial.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\MenuInicial.cs",
+              "RelativeDocumentMoniker": "MenuInicial.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\MenuInicial.cs [Projeto]",
+              "RelativeToolTip": "MenuInicial.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:52:10.083Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Loja.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\Loja.cs",
+              "RelativeDocumentMoniker": "Loja.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\Loja.cs",
+              "RelativeToolTip": "Loja.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAtwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:24:47.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Loja.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\Loja.cs",
+              "RelativeDocumentMoniker": "Loja.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\Loja.cs [Projeto]",
+              "RelativeToolTip": "Loja.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:15:04.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Animatronicos.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\Animatronicos.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\Animatronicos.cs",
               "RelativeDocumentMoniker": "Animatronicos.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\Animatronicos.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\Animatronicos.cs [Projeto]",
               "RelativeToolTip": "Animatronicos.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T13:35:10.534Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2024-06-28T13:35:10.534Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Animatronicos.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\Animatronicos.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\Animatronicos.cs",
               "RelativeDocumentMoniker": "Animatronicos.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\Animatronicos.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\Animatronicos.cs",
               "RelativeToolTip": "Animatronicos.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T22:34:16.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-30T22:34:16.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Pizzaria.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\Pizzaria.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\Pizzaria.cs",
               "RelativeDocumentMoniker": "Pizzaria.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\Pizzaria.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\Pizzaria.cs",
               "RelativeToolTip": "Pizzaria.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAApwCMAAAABAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAtwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T22:14:34.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Pizzaria.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\Pizzaria.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\Pizzaria.cs",
               "RelativeDocumentMoniker": "Pizzaria.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\Pizzaria.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\Pizzaria.cs [Projeto]",
               "RelativeToolTip": "Pizzaria.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T16:19:13.436Z",

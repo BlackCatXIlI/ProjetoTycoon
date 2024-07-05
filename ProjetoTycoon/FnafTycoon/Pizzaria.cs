@@ -25,12 +25,17 @@ namespace FnafTycoon
 
         private void BTpizza_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void BTpizza_Click_1(object sender, EventArgs e)
         {
             _pizzasRepository.Adicionar(1);
+        }
+
+        private void kryptonPictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

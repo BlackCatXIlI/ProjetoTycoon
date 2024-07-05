@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FnafTycoon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c14cb5d9bc8efdcf983e1d8c8fea45819559cc76")]
 [assembly: System.Reflection.AssemblyProductAttribute("FnafTycoon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FnafTycoon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

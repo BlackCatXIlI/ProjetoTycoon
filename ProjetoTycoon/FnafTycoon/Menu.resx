@@ -117,770 +117,770 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="PnSide.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;BTside.Name" xml:space="preserve">
-    <value>BTside</value>
-  </data>
-  <data name="kryptonLabel1.Values.ExtraText" xml:space="preserve">
+  <data name="BTside.Values.ExtraText" xml:space="preserve">
     <value />
-  </data>
-  <data name="&gt;&gt;kryptonPanel1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;kryptonPanel1.Parent" xml:space="preserve">
-    <value>PnSide</value>
-  </data>
-  <data name="kryptonButton1.Values.ExtraText1" xml:space="preserve">
-    <value />
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="BTloja.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="kryptonLabel3.Values.ExtraText" xml:space="preserve">
-    <value />
-  </data>
-  <data name="&gt;&gt;kryptonButton2.Name" xml:space="preserve">
-    <value>kryptonButton2</value>
-  </data>
-  <data name="BtSair.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="BtConf.Values.ExtraText" xml:space="preserve">
-    <value />
-  </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="BtSair.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
-    <value />
-  </data>
-  <data name="kryptonButton2.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
-    <value />
-  </data>
-  <data name="BTloja.Values.ExtraText" xml:space="preserve">
-    <value />
-  </data>
-  <data name="BTpizzaria.Values.Text" xml:space="preserve">
-    <value>Pizzaria</value>
-  </data>
-  <data name="&gt;&gt;kryptonPanel5.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonPanel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <data name="&gt;&gt;kryptonButton3.Parent" xml:space="preserve">
-    <value>kryptonPanel3</value>
-  </data>
-  <data name="BTpizzaria.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
-    <value />
-  </data>
-  <data name="&gt;&gt;kryptonPanel1.Name" xml:space="preserve">
-    <value>kryptonPanel1</value>
-  </data>
-  <data name="BTanimatronicos.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Showcard Gothic, 12pt, style=Bold</value>
-  </data>
-  <data name="&gt;&gt;kryptonPanel2.Name" xml:space="preserve">
-    <value>kryptonPanel2</value>
-  </data>
-  <data name="kryptonButton3.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="BtSobre.Values.ExtraText" xml:space="preserve">
-    <value />
-  </data>
-  <data name="kryptonLabel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>783, 23</value>
-  </data>
-  <data name="kryptonButton2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>43, 12</value>
-  </data>
-  <data name="BTside.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="&gt;&gt;PnSideMenu.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonPanel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <data name="PNmenu.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="TBdinheiro.Location" type="System.Drawing.Point, System.Drawing">
-    <value>886, 18</value>
-  </data>
-  <data name="&gt;&gt;kryptonPanel4.Name" xml:space="preserve">
-    <value>kryptonPanel4</value>
-  </data>
-  <data name="BtSobre.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
-    <value />
-  </data>
-  <data name="kryptonButton1.Values.Text1" xml:space="preserve">
-    <value>Conf</value>
-  </data>
-  <data name="&gt;&gt;PnSideMenu.Name" xml:space="preserve">
-    <value>PnSideMenu</value>
-  </data>
-  <data name="&gt;&gt;BTanimatronicos.Name" xml:space="preserve">
-    <value>BTanimatronicos</value>
-  </data>
-  <data name="&gt;&gt;PNmenu.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;kryptonLabel3.Parent" xml:space="preserve">
-    <value>kryptonPanel5</value>
-  </data>
-  <data name="&gt;&gt;kryptonButton4.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <data name="&gt;&gt;T1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Timer, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="TBpizzas.Values.Text" xml:space="preserve">
-    <value />
-  </data>
-  <data name="&gt;&gt;kryptonButton2.Parent" xml:space="preserve">
-    <value>kryptonPanel5</value>
-  </data>
-  <data name="kryptonButton4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 10</value>
-  </data>
-  <data name="PnSideMenu.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;TBdinheiro.ZOrder" xml:space="preserve">
-    <value>0</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
     <value>Pizzas</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 4, 5, 4</value>
-  </data>
-  <data name="BTloja.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 30</value>
-  </data>
-  <data name="&gt;&gt;TBpizzas.Name" xml:space="preserve">
-    <value>TBpizzas</value>
-  </data>
-  <data name="&gt;&gt;PNmenu.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="BtOpc.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
-    <value />
-  </data>
-  <data name="BTanimatronicos.Values.ExtraText" xml:space="preserve">
-    <value />
-  </data>
-  <data name="&gt;&gt;BTloja.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;kryptonButton3.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <data name="&gt;&gt;kryptonButton1.Parent" xml:space="preserve">
-    <value>kryptonPanel2</value>
-  </data>
-  <data name="&gt;&gt;BTpizzaria.Name" xml:space="preserve">
-    <value>BTpizzaria</value>
-  </data>
-  <data name="&gt;&gt;kryptonPanel4.Parent" xml:space="preserve">
-    <value>PnSide</value>
-  </data>
-  <data name="&gt;&gt;PNmenu.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonPanel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <data name="TBdinheiro.Values.Text" xml:space="preserve">
-    <value />
-  </data>
-  <data name="&gt;&gt;SideTimer.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Timer, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label1.Name" xml:space="preserve">
-    <value>label1</value>
-  </data>
-  <data name="&gt;&gt;BtSair.Parent" xml:space="preserve">
-    <value>kryptonPanel4</value>
-  </data>
-  <data name="kryptonButton4.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
-    <value />
-  </data>
-  <data name="BtSobre.Values.Text" xml:space="preserve">
-    <value>Sobre</value>
-  </data>
-  <data name="&gt;&gt;TBpizzas.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="PnSide.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 59</value>
-  </data>
-  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>96, 20</value>
-  </data>
-  <data name="TBpizzas.Location" type="System.Drawing.Point, System.Drawing">
-    <value>636, 18</value>
-  </data>
-  <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="BtConf.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
-    <value />
-  </data>
-  <data name="kryptonLabel3.Values.Text" xml:space="preserve">
-    <value>Pizzas</value>
-  </data>
-  <data name="kryptonButton1.Values.Text" xml:space="preserve">
-    <value>Loja</value>
-  </data>
-  <data name="&gt;&gt;kryptonLabel3.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;kryptonButton4.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="kryptonLabel3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>563, 20</value>
-  </data>
-  <data name="BTside.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
-    <value />
-  </data>
-  <data name="BTside.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 10</value>
-  </data>
-  <data name="&gt;&gt;TBdinheiro.Parent" xml:space="preserve">
-    <value>kryptonPanel5</value>
-  </data>
-  <data name="&gt;&gt;kryptonPanel5.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="kryptonButton4.Values.Text" xml:space="preserve">
-    <value>Sair</value>
-  </data>
-  <data name="&gt;&gt;kryptonPanel2.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonPanel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <data name="BTloja.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;TBpizzas.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonLabel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <data name="&gt;&gt;PnSide.Name" xml:space="preserve">
-    <value>PnSide</value>
-  </data>
-  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;PnSideMenu.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="kryptonButton2.Values.Text" xml:space="preserve">
-    <value>Animatronicos</value>
-  </data>
-  <data name="kryptonLabel2.Values.Text" xml:space="preserve">
-    <value>Dinheiro</value>
-  </data>
-  <data name="&gt;&gt;T1.Name" xml:space="preserve">
-    <value>T1</value>
-  </data>
-  <data name="kryptonPanel5.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;BtConf.Name" xml:space="preserve">
-    <value>BtConf</value>
-  </data>
-  <data name="BtConf.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="&gt;&gt;BTloja.Name" xml:space="preserve">
-    <value>BTloja</value>
-  </data>
-  <data name="BtSobre.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 10</value>
-  </data>
-  <data name="&gt;&gt;BtSair.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <data name="&gt;&gt;BtSobre.Name" xml:space="preserve">
-    <value>BtSobre</value>
-  </data>
-  <data name="&gt;&gt;BtSobre.Parent" xml:space="preserve">
-    <value>kryptonPanel3</value>
-  </data>
-  <data name="&gt;&gt;kryptonPanel3.Name" xml:space="preserve">
-    <value>kryptonPanel3</value>
-  </data>
-  <data name="kryptonLabel3.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
-    <value />
-  </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Tycoon</value>
   </data>
-  <data name="&gt;&gt;label2.Name" xml:space="preserve">
-    <value>label2</value>
-  </data>
-  <data name="&gt;&gt;PnSideMenu.ZOrder" xml:space="preserve">
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="BTpizzaria.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
-  </data>
-  <data name="&gt;&gt;kryptonPanel4.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonPanel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <data name="BTpizzaria.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="&gt;&gt;BtSobre.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <data name="&gt;&gt;kryptonPanel5.Name" xml:space="preserve">
-    <value>kryptonPanel5</value>
-  </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>12, 20</value>
-  </data>
-  <data name="&gt;&gt;kryptonPanel3.Parent" xml:space="preserve">
-    <value>PnSide</value>
-  </data>
-  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
-    <value>CenterScreen</value>
-  </data>
-  <data name="BTside.Values.Text" xml:space="preserve">
-    <value>Opções</value>
-  </data>
-  <data name="&gt;&gt;kryptonButton1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;PnSide.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;BTside.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;BTpizzaria.Parent" xml:space="preserve">
-    <value>kryptonPanel5</value>
-  </data>
-  <data name="kryptonButton3.Values.Text" xml:space="preserve">
-    <value>Pizzaria</value>
-  </data>
-  <data name="&gt;&gt;kryptonPanel1.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonPanel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <data name="&gt;&gt;kryptonButton1.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <data name="kryptonPanel1.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;label2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="kryptonButton3.Values.ExtraText" xml:space="preserve">
-    <value />
-  </data>
-  <data name="kryptonPanel4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 189</value>
-  </data>
-  <data name="kryptonPanel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 3</value>
-  </data>
-  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;BtOpc.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;BTanimatronicos.Parent" xml:space="preserve">
-    <value>kryptonPanel5</value>
-  </data>
-  <data name="&gt;&gt;kryptonPanel5.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;kryptonButton3.Name" xml:space="preserve">
-    <value>kryptonButton3</value>
-  </data>
-  <data name="TBdinheiro.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="PnSideMenu.Location" type="System.Drawing.Point, System.Drawing">
-    <value>170, 0</value>
-  </data>
-  <data name="BtSair.Values.Text" xml:space="preserve">
-    <value>Sair</value>
-  </data>
-  <data name="&gt;&gt;kryptonLabel3.Name" xml:space="preserve">
-    <value>kryptonLabel3</value>
-  </data>
-  <data name="kryptonPanel3.TabIndex" type="System.Int32, mscorlib">
-    <value>15</value>
-  </data>
-  <data name="BTanimatronicos.Values.Text" xml:space="preserve">
-    <value>Animatronicos</value>
-  </data>
-  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
   </data>
   <data name="kryptonButton2.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
   </data>
-  <data name="&gt;&gt;BtSair.Name" xml:space="preserve">
-    <value>BtSair</value>
-  </data>
-  <data name="&gt;&gt;kryptonPanel2.Parent" xml:space="preserve">
-    <value>PnSide</value>
-  </data>
-  <data name="kryptonLabel2.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
-    <value />
-  </data>
-  <data name="&gt;&gt;BTside.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <data name="&gt;&gt;kryptonButton2.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <data name="BtConf.Values.Text" xml:space="preserve">
-    <value>Conf</value>
-  </data>
-  <data name="kryptonButton1.Values.ExtraText" xml:space="preserve">
-    <value />
-  </data>
-  <data name="label2.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="panel2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="kryptonButton1.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
-    <value />
-  </data>
-  <data name="kryptonLabel3.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="&gt;&gt;panel2.Name" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="BTanimatronicos.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="kryptonPanel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 65</value>
-  </data>
-  <data name="&gt;&gt;kryptonButton3.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="TBpizzas.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
-    <value />
-  </data>
-  <data name="kryptonLabel1.Values.Text" xml:space="preserve">
-    <value />
-  </data>
-  <data name="BTanimatronicos.Size" type="System.Drawing.Size, System.Drawing">
-    <value>170, 30</value>
-  </data>
-  <data name="TBpizzas.Values.ExtraText" xml:space="preserve">
-    <value />
-  </data>
-  <data name="BtOpc.Values.ExtraText" xml:space="preserve">
-    <value />
-  </data>
-  <data name="kryptonButton1.Location" type="System.Drawing.Point, System.Drawing">
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="kryptonButton4.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 10</value>
   </data>
-  <data name="&gt;&gt;kryptonPanel3.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="BTanimatronicos.Text" xml:space="preserve">
-    <value>Animatronicos</value>
-  </data>
-  <data name="kryptonButton1.Values.ImageTransparentColor1" type="System.Drawing.Color, System.Drawing">
-    <value />
-  </data>
-  <data name="TBpizzas.Mask" xml:space="preserve">
-    <value>00000000000000</value>
-  </data>
-  <data name="BtSair.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 10</value>
-  </data>
-  <data name="&gt;&gt;BTpizzaria.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;BtOpc.Name" xml:space="preserve">
-    <value>BtOpc</value>
-  </data>
-  <data name="&gt;&gt;kryptonButton1.Name" xml:space="preserve">
-    <value>kryptonButton1</value>
-  </data>
-  <data name="&gt;&gt;kryptonLabel2.Name" xml:space="preserve">
-    <value>kryptonLabel2</value>
-  </data>
-  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>71, 20</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>Menu</value>
-  </data>
-  <data name="BtSobre.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="kryptonButton4.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="BTside.Values.ExtraText" xml:space="preserve">
-    <value />
-  </data>
-  <data name="BTpizzaria.Text" xml:space="preserve">
-    <value>Pizzaria</value>
-  </data>
-  <data name="TBdinheiro.Values.ExtraText" xml:space="preserve">
-    <value />
-  </data>
-  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>784, 21</value>
-  </data>
-  <data name="&gt;&gt;kryptonButton2.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="kryptonPanel2.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="BTpizzaria.TabIndex" type="System.Int32, mscorlib">
+  <data name="&gt;&gt;BtConf.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <data name="kryptonLabel1.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
     <value />
   </data>
-  <data name="BtSair.Values.ExtraText" xml:space="preserve">
+  <data name="kryptonButton2.Values.ExtraText" xml:space="preserve">
     <value />
   </data>
-  <data name="&gt;&gt;PNmenu.Name" xml:space="preserve">
-    <value>PNmenu</value>
+  <data name="kryptonButton1.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="kryptonPanel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 65</value>
+  </data>
+  <data name="&gt;&gt;BtOpc.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;kryptonLabel3.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonLabel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="BtConf.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 10</value>
+  </data>
+  <data name="&gt;&gt;PnSide.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;BTpizzaria.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;kryptonPanel3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="BtOpc.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 10</value>
+  </data>
+  <data name="BtSair.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 10</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Showcard Gothic, 12pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;panel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="&gt;&gt;PnSide.Name" xml:space="preserve">
+    <value>PnSide</value>
+  </data>
+  <data name="PnSide.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 59</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 4, 5, 4</value>
+  </data>
+  <data name="&gt;&gt;TBdinheiro.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonLabel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="kryptonButton4.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="BTpizzaria.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;kryptonLabel3.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;kryptonLabel2.Parent" xml:space="preserve">
+    <value>kryptonPanel5</value>
+  </data>
+  <data name="panel2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="&gt;&gt;kryptonPanel5.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonPanel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
   </data>
   <data name="&gt;&gt;kryptonButton4.Parent" xml:space="preserve">
     <value>kryptonPanel4</value>
   </data>
+  <data name="BTanimatronicos.Text" xml:space="preserve">
+    <value>Animatronicos</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton4.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="BTloja.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="&gt;&gt;TBdinheiro.Name" xml:space="preserve">
+    <value>TBdinheiro</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton1.Name" xml:space="preserve">
+    <value>kryptonButton1</value>
+  </data>
+  <data name="&gt;&gt;T1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;kryptonPanel5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;BtOpc.Name" xml:space="preserve">
+    <value>BtOpc</value>
+  </data>
+  <data name="PNmenu.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 52</value>
+  </data>
+  <data name="kryptonLabel2.Values.ExtraText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;BtSobre.Name" xml:space="preserve">
+    <value>BtSobre</value>
+  </data>
+  <data name="&gt;&gt;SideTimer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="kryptonPanel5.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="kryptonLabel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>563, 20</value>
+  </data>
+  <data name="&gt;&gt;kryptonPanel3.Name" xml:space="preserve">
+    <value>kryptonPanel3</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1035, 500</value>
+  </data>
+  <data name="kryptonLabel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>783, 23</value>
+  </data>
+  <data name="PnSideMenu.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;BtSobre.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;BTpizzaria.Name" xml:space="preserve">
+    <value>BTpizzaria</value>
+  </data>
+  <data name="kryptonButton3.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="kryptonButton1.Values.ExtraText1" xml:space="preserve">
+    <value />
+  </data>
+  <data name="kryptonButton1.Values.Text1" xml:space="preserve">
+    <value>Conf</value>
+  </data>
+  <data name="BTloja.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="&gt;&gt;kryptonPanel2.Name" xml:space="preserve">
+    <value>kryptonPanel2</value>
+  </data>
+  <data name="BtOpc.Values.ExtraText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="PNmenu.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;kryptonPanel2.Parent" xml:space="preserve">
+    <value>PnSide</value>
+  </data>
+  <data name="&gt;&gt;panel2.Name" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="BtOpc.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;PnSideMenu.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="kryptonLabel3.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1035, 59</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton4.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="BTside.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;TBpizzas.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonLabel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;BTpizzaria.Parent" xml:space="preserve">
+    <value>kryptonPanel5</value>
+  </data>
+  <data name="kryptonLabel2.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="kryptonButton4.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;BTside.Name" xml:space="preserve">
+    <value>BTside</value>
+  </data>
+  <data name="kryptonLabel3.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="TBdinheiro.Location" type="System.Drawing.Point, System.Drawing">
+    <value>886, 18</value>
+  </data>
+  <data name="&gt;&gt;BTanimatronicos.Parent" xml:space="preserve">
+    <value>kryptonPanel5</value>
+  </data>
+  <data name="&gt;&gt;BtSair.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="kryptonButton2.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="kryptonPanel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="BTanimatronicos.Values.Text" xml:space="preserve">
+    <value>Animatronicos</value>
+  </data>
+  <data name="&gt;&gt;BTside.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="panel2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="kryptonButton1.Values.Text" xml:space="preserve">
+    <value>Loja</value>
+  </data>
+  <data name="kryptonLabel3.Values.ExtraText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;TBpizzas.Parent" xml:space="preserve">
+    <value>kryptonPanel5</value>
+  </data>
+  <data name="&gt;&gt;BtSair.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;BTanimatronicos.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="BTanimatronicos.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="kryptonButton2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>43, 12</value>
+  </data>
+  <data name="BTloja.Location" type="System.Drawing.Point, System.Drawing">
+    <value>282, 15</value>
+  </data>
+  <data name="&gt;&gt;BTanimatronicos.Name" xml:space="preserve">
+    <value>BTanimatronicos</value>
+  </data>
+  <data name="BtSair.Values.ExtraText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;BTside.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="BtSobre.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="&gt;&gt;BTloja.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;kryptonLabel3.Parent" xml:space="preserve">
+    <value>kryptonPanel5</value>
+  </data>
+  <data name="BTpizzaria.Text" xml:space="preserve">
+    <value>Pizzaria</value>
+  </data>
+  <data name="kryptonButton1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 10</value>
+  </data>
+  <data name="TBpizzas.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 20</value>
+  </data>
+  <data name="&gt;&gt;BtSair.Name" xml:space="preserve">
+    <value>BtSair</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="BTloja.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 30</value>
+  </data>
+  <data name="BtConf.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="BTloja.Values.Text" xml:space="preserve">
+    <value>Loja</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton4.Name" xml:space="preserve">
+    <value>kryptonButton4</value>
+  </data>
+  <data name="&gt;&gt;PnSide.Type" xml:space="preserve">
+    <value>System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="PNmenu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1035, 447</value>
+  </data>
+  <data name="&gt;&gt;kryptonPanel3.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonPanel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="TBpizzas.Mask" xml:space="preserve">
+    <value>00000000000000</value>
+  </data>
+  <data name="&gt;&gt;TBdinheiro.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="BTanimatronicos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 30</value>
+  </data>
+  <data name="BTpizzaria.Values.Text" xml:space="preserve">
+    <value>Pizzaria</value>
+  </data>
+  <data name="kryptonButton3.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton3.Name" xml:space="preserve">
+    <value>kryptonButton3</value>
+  </data>
+  <data name="&gt;&gt;BtSair.Parent" xml:space="preserve">
+    <value>kryptonPanel4</value>
+  </data>
+  <data name="BTpizzaria.Values.ExtraText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;SideTimer.Name" xml:space="preserve">
+    <value>SideTimer</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton1.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="kryptonButton4.Values.ExtraText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="kryptonButton4.Values.Text" xml:space="preserve">
+    <value>Sair</value>
+  </data>
+  <data name="kryptonPanel3.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;kryptonPanel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="BTanimatronicos.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="&gt;&gt;kryptonButton1.Parent" xml:space="preserve">
+    <value>kryptonPanel2</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton2.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;kryptonLabel2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Menu</value>
+  </data>
+  <data name="TBdinheiro.Values.ExtraText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;kryptonButton3.Parent" xml:space="preserve">
+    <value>kryptonPanel3</value>
+  </data>
+  <data name="&gt;&gt;TBpizzas.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;TBdinheiro.Parent" xml:space="preserve">
+    <value>kryptonPanel5</value>
+  </data>
+  <data name="&gt;&gt;BtConf.Name" xml:space="preserve">
+    <value>BtConf</value>
+  </data>
+  <data name="BTanimatronicos.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="BTanimatronicos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>106, 16</value>
+  </data>
+  <data name="TBpizzas.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;BtOpc.Parent" xml:space="preserve">
+    <value>kryptonPanel1</value>
+  </data>
+  <data name="panel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="BtConf.Values.ExtraText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;PnSide.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;PnSideMenu.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="kryptonButton3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 10</value>
+  </data>
+  <data name="&gt;&gt;BtOpc.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="BTside.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="BtConf.Values.Text" xml:space="preserve">
+    <value>Conf</value>
+  </data>
+  <data name="PnSide.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
   <data name="BtOpc.Values.Text" xml:space="preserve">
+    <value>Opções</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>12, 20</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>562, 21</value>
+  </data>
+  <data name="BtSobre.Values.Text" xml:space="preserve">
+    <value>Sobre</value>
+  </data>
+  <data name="BtSobre.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 10</value>
+  </data>
+  <data name="BtSair.Values.Text" xml:space="preserve">
+    <value>Sair</value>
+  </data>
+  <data name="BTloja.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;kryptonPanel4.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="BTanimatronicos.Values.ExtraText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;kryptonPanel4.Name" xml:space="preserve">
+    <value>kryptonPanel4</value>
+  </data>
+  <data name="&gt;&gt;kryptonPanel1.Parent" xml:space="preserve">
+    <value>PnSide</value>
+  </data>
+  <data name="BTpizzaria.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 30</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 20</value>
+  </data>
+  <data name="PnSideMenu.Location" type="System.Drawing.Point, System.Drawing">
+    <value>170, 0</value>
+  </data>
+  <data name="&gt;&gt;kryptonLabel2.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonLabel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;kryptonPanel1.Name" xml:space="preserve">
+    <value>kryptonPanel1</value>
+  </data>
+  <data name="BtSobre.Values.ExtraText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;BTloja.Parent" xml:space="preserve">
+    <value>kryptonPanel5</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton2.Name" xml:space="preserve">
+    <value>kryptonButton2</value>
+  </data>
+  <data name="TBdinheiro.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="kryptonPanel4.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;kryptonPanel5.Name" xml:space="preserve">
+    <value>kryptonPanel5</value>
+  </data>
+  <data name="&gt;&gt;kryptonPanel4.Parent" xml:space="preserve">
+    <value>PnSide</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Dinheiro</value>
+  </data>
+  <data name="kryptonButton1.Values.ImageTransparentColor1" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="&gt;&gt;BtSobre.Parent" xml:space="preserve">
+    <value>kryptonPanel3</value>
+  </data>
+  <data name="&gt;&gt;BTloja.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="TBpizzas.Values.ExtraText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;kryptonPanel2.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonPanel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="BTpizzaria.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="kryptonButton3.Values.Text" xml:space="preserve">
+    <value>Pizzaria</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;BTside.Parent" xml:space="preserve">
+    <value>kryptonPanel1</value>
+  </data>
+  <data name="BTside.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 10</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;kryptonPanel5.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="kryptonLabel3.Values.Text" xml:space="preserve">
+    <value>Pizzas</value>
+  </data>
+  <data name="&gt;&gt;BtConf.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="BTloja.Values.ExtraText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="kryptonPanel4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 189</value>
+  </data>
+  <data name="BtSobre.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="kryptonLabel2.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="TBpizzas.Values.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;PnSideMenu.Name" xml:space="preserve">
+    <value>PnSideMenu</value>
+  </data>
+  <data name="&gt;&gt;T1.Name" xml:space="preserve">
+    <value>T1</value>
+  </data>
+  <data name="&gt;&gt;TBpizzas.Name" xml:space="preserve">
+    <value>TBpizzas</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="BtConf.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="kryptonLabel1.Values.ExtraText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="BtSair.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="&gt;&gt;kryptonPanel3.Parent" xml:space="preserve">
+    <value>PnSide</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;PNmenu.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;BTpizzaria.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;kryptonLabel3.Name" xml:space="preserve">
+    <value>kryptonLabel3</value>
+  </data>
+  <data name="&gt;&gt;PNmenu.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;kryptonPanel1.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonPanel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;BTanimatronicos.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="kryptonPanel2.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="TBdinheiro.Size" type="System.Drawing.Size, System.Drawing">
+    <value>137, 20</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton2.Parent" xml:space="preserve">
+    <value>kryptonPanel5</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 20</value>
+  </data>
+  <data name="BTside.Values.Text" xml:space="preserve">
     <value>Opções</value>
   </data>
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
     <value>Krypton.Toolkit.KryptonForm, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
   </data>
-  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1035, 59</value>
-  </data>
-  <data name="&gt;&gt;BTloja.Parent" xml:space="preserve">
-    <value>kryptonPanel5</value>
-  </data>
-  <data name="PNmenu.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 52</value>
-  </data>
-  <data name="&gt;&gt;label1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="panel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="&gt;&gt;PnSide.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;TBpizzas.Parent" xml:space="preserve">
-    <value>kryptonPanel5</value>
-  </data>
-  <data name="&gt;&gt;BtSobre.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="label2.Text" xml:space="preserve">
-    <value>Dinheiro</value>
-  </data>
-  <data name="&gt;&gt;SideTimer.Name" xml:space="preserve">
-    <value>SideTimer</value>
-  </data>
-  <data name="panel2.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;kryptonLabel3.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonLabel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>562, 21</value>
-  </data>
-  <data name="&gt;&gt;panel2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="BtOpc.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 10</value>
-  </data>
-  <data name="TBpizzas.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="BTpizzaria.Values.ExtraText" xml:space="preserve">
+  <data name="BtOpc.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
     <value />
   </data>
-  <data name="&gt;&gt;kryptonPanel2.ZOrder" xml:space="preserve">
-    <value>1</value>
+  <data name="kryptonButton1.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
   </data>
-  <data name="BTanimatronicos.Location" type="System.Drawing.Point, System.Drawing">
-    <value>106, 16</value>
+  <data name="TBpizzas.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
   </data>
-  <data name="&gt;&gt;TBdinheiro.Name" xml:space="preserve">
-    <value>TBdinheiro</value>
+  <data name="TBpizzas.Location" type="System.Drawing.Point, System.Drawing">
+    <value>636, 18</value>
   </data>
-  <data name="kryptonButton1.TabIndex" type="System.Int32, mscorlib">
+  <data name="BtSair.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
   </data>
-  <data name="&gt;&gt;BtOpc.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>1035, 500</value>
-  </data>
-  <data name="kryptonButton3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 10</value>
-  </data>
-  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;BTanimatronicos.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <data name="BtConf.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 10</value>
-  </data>
-  <data name="BTpizzaria.Location" type="System.Drawing.Point, System.Drawing">
-    <value>412, 15</value>
-  </data>
-  <data name="TBpizzas.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 20</value>
-  </data>
-  <data name="&gt;&gt;kryptonPanel4.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;kryptonButton4.Name" xml:space="preserve">
-    <value>kryptonButton4</value>
-  </data>
-  <data name="kryptonLabel2.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="kryptonLabel2.Values.ExtraText" xml:space="preserve">
+  <data name="kryptonButton3.Values.ExtraText" xml:space="preserve">
     <value />
   </data>
-  <data name="&gt;&gt;BtOpc.Parent" xml:space="preserve">
-    <value>kryptonPanel1</value>
-  </data>
-  <data name="BTanimatronicos.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+  <data name="kryptonLabel1.Values.Text" xml:space="preserve">
     <value />
-  </data>
-  <data name="TBdinheiro.Size" type="System.Drawing.Size, System.Drawing">
-    <value>137, 20</value>
-  </data>
-  <data name="kryptonPanel3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 127</value>
-  </data>
-  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="BTloja.Text" xml:space="preserve">
-    <value>Loja</value>
-  </data>
-  <data name="&gt;&gt;BtConf.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <data name="kryptonButton3.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
-    <value />
-  </data>
-  <data name="&gt;&gt;kryptonLabel2.Parent" xml:space="preserve">
-    <value>kryptonPanel5</value>
-  </data>
-  <data name="BTloja.Values.Text" xml:space="preserve">
-    <value>Loja</value>
-  </data>
-  <data name="PNmenu.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1035, 447</value>
   </data>
   <data name="TBdinheiro.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
-    <value />
-  </data>
-  <data name="&gt;&gt;BTanimatronicos.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;kryptonPanel3.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonPanel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <data name="kryptonButton4.Values.ExtraText" xml:space="preserve">
     <value />
   </data>
   <data name="kryptonPanel5.Location" type="System.Drawing.Point, System.Drawing">
     <value>1, 0</value>
   </data>
-  <data name="&gt;&gt;BtConf.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="&gt;&gt;PnSideMenu.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonPanel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
   </data>
-  <data name="BTpizzaria.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 30</value>
+  <data name="&gt;&gt;PNmenu.Name" xml:space="preserve">
+    <value>PNmenu</value>
   </data>
-  <data name="BTloja.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
-    <value />
-  </data>
-  <data name="&gt;&gt;BTside.Parent" xml:space="preserve">
-    <value>kryptonPanel1</value>
-  </data>
-  <data name="&gt;&gt;BTloja.Type" xml:space="preserve">
+  <data name="&gt;&gt;kryptonButton3.Type" xml:space="preserve">
     <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
   </data>
-  <data name="kryptonButton2.Values.ExtraText" xml:space="preserve">
-    <value />
+  <data name="kryptonLabel2.Values.Text" xml:space="preserve">
+    <value>Dinheiro</value>
   </data>
-  <data name="kryptonPanel4.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
+  <data name="&gt;&gt;kryptonPanel2.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
-  <data name="&gt;&gt;TBdinheiro.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonLabel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  <data name="&gt;&gt;PNmenu.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonPanel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
   </data>
-  <data name="&gt;&gt;kryptonLabel2.ZOrder" xml:space="preserve">
-    <value>2</value>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>panel2</value>
   </data>
-  <data name="&gt;&gt;BtSair.ZOrder" xml:space="preserve">
+  <data name="kryptonPanel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 127</value>
+  </data>
+  <data name="&gt;&gt;BtSobre.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="&gt;&gt;BTloja.Name" xml:space="preserve">
+    <value>BTloja</value>
   </data>
-  <data name="BTloja.Location" type="System.Drawing.Point, System.Drawing">
-    <value>282, 15</value>
+  <data name="&gt;&gt;kryptonPanel4.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonPanel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
   </data>
-  <data name="&gt;&gt;BTpizzaria.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  <data name="TBdinheiro.Values.Text" xml:space="preserve">
+    <value />
   </data>
-  <data name="&gt;&gt;PnSide.Type" xml:space="preserve">
-    <value>System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="kryptonButton2.Values.Text" xml:space="preserve">
+    <value>Animatronicos</value>
   </data>
-  <data name="BtOpc.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
+  <data name="kryptonButton1.Values.ExtraText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;kryptonLabel2.Name" xml:space="preserve">
+    <value>kryptonLabel2</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>784, 21</value>
+  </data>
+  <data name="kryptonPanel1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="BTloja.Text" xml:space="preserve">
+    <value>Loja</value>
+  </data>
+  <data name="BTpizzaria.Location" type="System.Drawing.Point, System.Drawing">
+    <value>412, 15</value>
   </data>
   <data name="&gt;&gt;BtConf.Parent" xml:space="preserve">
     <value>kryptonPanel2</value>
   </data>
-  <data name="label1.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;kryptonLabel2.Type" xml:space="preserve">
-    <value>Krypton.Toolkit.KryptonLabel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
-  </data>
-  <metadata name="SideTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>83, 17</value>
-  </metadata>
   <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
     <value>pt-BR</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>51</value>
   </metadata>
   <metadata name="T1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <metadata name="SideTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>83, 17</value>
+  </metadata>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
-  </metadata>
-  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>51</value>
   </metadata>
 </root>

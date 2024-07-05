@@ -129,7 +129,7 @@
             GB2.Controls.Add(label11);
             GB2.Controls.Add(GB1);
             GB2.FlatStyle = FlatStyle.Flat;
-            GB2.Location = new Point(57, 35);
+            GB2.Location = new Point(57, 46);
             GB2.Name = "GB2";
             GB2.Size = new Size(921, 694);
             GB2.TabIndex = 16;
@@ -1107,7 +1107,7 @@
             // kryptonPictureBox1
             // 
             kryptonPictureBox1.Image = Properties.Resources.Chão;
-            kryptonPictureBox1.Location = new Point(0, -3);
+            kryptonPictureBox1.Location = new Point(0, 0);
             kryptonPictureBox1.Name = "kryptonPictureBox1";
             kryptonPictureBox1.Size = new Size(1035, 752);
             kryptonPictureBox1.TabIndex = 17;

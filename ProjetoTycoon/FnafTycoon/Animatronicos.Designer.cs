@@ -818,7 +818,7 @@
             GB2.Controls.Add(groupBox1);
             GB2.Controls.Add(GB1);
             GB2.FlatStyle = FlatStyle.Flat;
-            GB2.Location = new Point(57, 53);
+            GB2.Location = new Point(57, 46);
             GB2.Name = "GB2";
             GB2.Size = new Size(925, 614);
             GB2.TabIndex = 15;

@@ -276,11 +276,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\FnafTycoon.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\FnafTycoon.csproj",
       "projectName": "FnafTycoon",
-      "projectPath": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\FnafTycoon.csproj",
+      "projectPath": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\FnafTycoon.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\obj\\",
+      "outputPath": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -350,6 +350,7 @@
             PnSide.Controls.Add(kryptonPanel3);
             PnSide.Controls.Add(kryptonPanel4);
             PnSide.Name = "PnSide";
+            PnSide.Paint += PnSide_Paint;
             // 
             // kryptonPanel1
             // 

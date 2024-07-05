@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9NfJYvVRjUmQA4G/OLe6KB7q65mXf0b6DCP+PbXKaIxYziwmwrnku58LV1BOukNNQ7/LChu9hMCgcGo+KfQyEA==",
+  "dgSpecHash": "EUf6idvnqX3NKmlYu7QrS2MWewH+NRaBx88P+Fuu/Isgmk5XmIBLqcCBrq+7Tga2h1Yka65lvGFvD22Y5c40cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\fnafVDD\\FnafTycoon\\FnafTycoon.csproj",
+  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\Projetos\\ProjetoTycoon\\FnafTycoon\\FnafTycoon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\krypton.docking\\85.24.6.176\\krypton.docking.85.24.6.176.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\krypton.navigator\\85.24.6.176\\krypton.navigator.85.24.6.176.nupkg.sha512",
