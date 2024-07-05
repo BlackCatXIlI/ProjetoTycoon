@@ -55,9 +55,9 @@ namespace FnafTycoon
         private void TmLoading_Tick(object sender, EventArgs e)
         {
             {
-                if (BarraCarregamento.Value < 100)
+                if (BarraCarregamento.Value < 1000)
                 {
-                    BarraCarregamento.Value = BarraCarregamento.Value + 2;
+                    BarraCarregamento.Value = BarraCarregamento.Value + 10;
                 }
                 else
                 {
@@ -66,8 +66,8 @@ namespace FnafTycoon
 
                     Menu Menu = new Menu(_pizzasRepository);
                     this.Hide();
-                    Menu.ShowDialog();
-                    MessageBox.Show("Seja bem Vindo ao Sistema !!!");
+                    Menu.Show();
+                    
                 }
             }
         }
